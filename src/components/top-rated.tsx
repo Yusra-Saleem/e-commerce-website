@@ -16,7 +16,7 @@ function TopRated() {
             src: "/women-shoes-1.webp",
             alt: "sandals",
             title: "Cinderella Heal Transparent Heal For Women",
-            description: "Transparent Heal For Women & Girls Silver Colour Stone Metal Buckle Metirial Transparent Glass.",
+            description: "Cinderella Heal Transparent Heal For Women &amp; Girls Silver Colour Stone Metal Buckle Metirial Transparent Glass.",
             price: 300,
             oldPrice: 400,
             category: "sandals-shoes",
@@ -108,7 +108,7 @@ function TopRated() {
         {
             src: "/accessories-3.webp",
             alt: "glasses",
-            title: "Men's Retro Sunglasses",
+            title: "Men&#39;s Retro Sunglasses",
             description: "Vintage rimless rectangle glasses with UV400 protection.",
             price: 35,
             oldPrice: 46,

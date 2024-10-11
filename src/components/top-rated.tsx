@@ -140,7 +140,7 @@ function TopRated() {
 
             <div className="text-center mt-24 mb-8">
                 <h2 className="sm:text-3xl title-font scroll-m-20 text-xl font-bold tracking-tight lg:text-2xl text-myBlackThree mb-4 capitalize">
-                    Women's Top Selling Items
+                    Women&#39;s Top Selling Items
                 </h2>
             </div>
 
@@ -162,7 +162,7 @@ function TopRated() {
 
             <div className="text-center mt-24 mb-8">
                 <h2 className="sm:text-3xl title-font scroll-m-20 text-xl font-bold tracking-tight lg:text-2xl text-myBlackThree mb-4 capitalize">
-                    Men's Top Selling Items
+                     Men&#39;s Top Selling Items
                 </h2>
             </div>
 

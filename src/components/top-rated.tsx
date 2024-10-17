@@ -108,7 +108,7 @@ function TopRated() {
         {
             src: "/accessories-3.webp",
             alt: "glasses",
-            title: "Men&#39;s Retro Sunglasses",
+            title: "Men's Retro Sunglasses",
             description: "Vintage rimless rectangle glasses with UV400 protection.",
             price: 35,
             oldPrice: 46,
